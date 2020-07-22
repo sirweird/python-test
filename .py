@@ -1,3 +1,3 @@
 import pygame
-from pygame import
+from pygame import*
 print("hello this is a test")
